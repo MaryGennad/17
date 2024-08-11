@@ -1,0 +1,64 @@
+автогаз 
+сотрудники трудовой договор+корректировки (
+1.
+города не агзс
+
+localhost
+retail_kanskiy
+8911 421 79 08
+
+
+
+
+app.js
+
+
+
+{/*
+import { useState } from "react"
+
+export default function App() {
+
+    const [inputText, setInputText] = useState('¯\_(ツ)_/¯')
+
+    return (
+        <>
+
+             <h1 id='header'>{headerText}</h1>
+        <button onClick={() => {
+          setHeaderText('Hello State')
+        }}>
+          ¯\_(ツ)_/¯</button> */}
+            {/* <h1>{inputText}</h1>
+
+            <input onChange={(event) => {
+                setInputText(event.target.value);
+            }} value={inputText} /> */}
+
+{/* 
+class Form extends React.Component{
+  state={
+    firstValue:'',
+    secondValue:'',
+  }
+  handleChange =(event)=>{
+    this.setState({firstValue:event.target.value,secondValue: event.target.value},
+      );
+  }
+  render() {
+    const {firstValue, secondValue}= this.state;
+    console.log(firstValue)
+
+    return<div>
+      <input type="number" name='firstValue' value={this.state.secondValue} onChange={this.handleChange}/>
+      <input type="number" name='secondValue' value={this.state.firstValue} onChange={this.handleChange}/>
+    </div>
+  }
+}
+export default Form;
+
+
+        </>
+    )
+}
+ */}
